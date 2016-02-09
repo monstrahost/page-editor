@@ -13,4 +13,4 @@ Install as you would any other Monstra plugin. Go to *Admin Menu -> Extends -> P
 	
 The plugin will add a row of buttons above the editing area as shown here: 
 
-![screenshot](../plugins/page_editor/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/monstrahost/page-editor/master/screenshot.png)
