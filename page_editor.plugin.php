@@ -16,7 +16,7 @@
     Plugin::register( __FILE__,                    
                     __('Page Editor', 'page_editor'),
                     __('Page Editor for Monstra CMS', 'page_editor'),  
-                    '1.0a',
+                    '1.0.0',
                     '@MonstraHost',                 
                     'http://page-editor.monstrahost.com/',
                     null);
